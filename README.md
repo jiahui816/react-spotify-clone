@@ -1,3 +1,17 @@
+This project is built using 
+
+1. React
+2. Material-UI
+3. Firebase 
+4. Spotify Developer API
+
+There are few things that you can try it out. 
+1. Login using your spotify account
+2. It will retrieve your playlist 
+
+This project is mainly focusing on cloning the design of spotify, thats why the play functionality was not implemented. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
